@@ -26,3 +26,14 @@ body {
     height: 200px;
     transition: 0.5s;
 }
+
+.container .container .face.face1 {
+    position: relative;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(100px);
+}
+
