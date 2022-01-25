@@ -37,3 +37,7 @@ body {
     transform: translateY(100px);
 }
 
+.container .card:hover .face.face1 {
+    background: #ff0057;
+    transform: translateY(0);
+}
